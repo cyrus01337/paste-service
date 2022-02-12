@@ -1,0 +1,12 @@
+.root {
+    background: #101010;
+}
+
+.topbar {
+    background: #222222;
+}
+
+.code {
+    background: #333333;
+    resize: none;
+}

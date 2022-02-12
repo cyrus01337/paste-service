@@ -1,13 +1,15 @@
 // import PropTypes from "prop-types";
 import React from "react";
 
+import Codebox from "./Codebox";
+import Topbar from "./Topbar";
+
 
 function App() {
     return (
         <div id="app">
-            <h1>index</h1>
-
-            <p>index</p>
+            <Topbar />
+            <Codebox />
         </div>
     );
 }
